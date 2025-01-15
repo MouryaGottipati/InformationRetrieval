@@ -1,0 +1,32 @@
+Date,Sales,Profit,Category
+2023-01-01,200,50,Electronics
+2023-01-02,150,30,Furniture
+2023-01-03,300,70,Electronics
+2023-01-04,250,60,Furniture
+2023-01-05,400,90,Office Supplies
+2023-01-06,100,20,Furniture
+2023-01-07,500,120,Electronics
+2023-01-08,350,80,Office Supplies
+2023-01-09,450,110,Electronics
+2023-01-10,200,50,Furniture
+2023-01-11,300,70,Office Supplies
+2023-01-12,150,30,Electronics
+2023-01-13,100,20,Furniture
+2023-01-14,400,90,Electronics
+2023-01-15,500,120,Office Supplies
+2023-01-16,250,60,Furniture
+2023-01-17,300,70,Electronics
+2023-01-18,200,50,Office Supplies
+2023-01-19,350,80,Furniture
+2023-01-20,450,110,Electronics
+2023-01-21,150,30,Office Supplies
+2023-01-22,100,20,Furniture
+2023-01-23,500,120,Electronics
+2023-01-24,400,90,Office Supplies
+2023-01-25,200,50,Furniture
+2023-01-26,150,30,Electronics
+2023-01-27,300,70,Furniture
+2023-01-28,250,60,Office Supplies
+2023-01-29,400,90,Electronics
+2023-01-30,500,120,Furniture
+2023-01-31,350,80,Office Supplies
